@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding earth science
   and society.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/aa123b818503ad107b864c3c21571f95_MIT12_001F13_Lec35Notes.pdf
+file: /media/courses/12-001-introduction-to-geology-fall-2013/aa123b818503ad107b864c3c21571f95_MIT12_001F13_Lec35Notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 35 Notes: Earth Science and Society'
 uid: aa123b81-8503-ad10-7b86-4c3c21571f95

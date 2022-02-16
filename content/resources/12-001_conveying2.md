@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/3f18dbaab90b3de9115b20da487f29e8_12-001_conveying2.jpg
+file: /media/courses/12-001-introduction-to-geology-fall-2013/3f18dbaab90b3de9115b20da487f29e8_12-001_conveying2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Conveying the Social Relevance of Geology
+parent_type: CourseSection
 resourcetype: Image
 title: 12-001_conveying2.jpg
 uid: 3f18dbaa-b90b-3de9-115b-20da487f29e8

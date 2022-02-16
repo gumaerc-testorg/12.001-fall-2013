@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/5f25559e94913a6a8708d0bff5661b1c_12-001_stat-students.png
+file: /media/courses/12-001-introduction-to-geology-fall-2013/5f25559e94913a6a8708d0bff5661b1c_12-001_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 12-001_stat-students.png
 uid: 5f25559e-9491-3a6a-8708-d0bff5661b1c

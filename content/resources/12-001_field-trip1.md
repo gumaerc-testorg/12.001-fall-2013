@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/ac6c04d57955b585a812bd1d38d542b3_12-001_field-trip1.jpg
+file: /media/courses/12-001-introduction-to-geology-fall-2013/ac6c04d57955b585a812bd1d38d542b3_12-001_field-trip1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Planning a Good Field Trip
+parent_type: CourseSection
 resourcetype: Image
 title: 12-001_field-trip1.jpg
 uid: ac6c04d5-7955-b585-a812-bd1d38d542b3

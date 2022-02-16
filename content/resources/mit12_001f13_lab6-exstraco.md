@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding example stratigraphic column.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/c7d4cd78ba5cb48fec36606adc79a982_MIT12_001F13_Lab6-ExStraCo.pdf
+file: /media/courses/12-001-introduction-to-geology-fall-2013/c7d4cd78ba5cb48fec36606adc79a982_MIT12_001F13_Lab6-ExStraCo.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs and Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: '12.001 Introduction to Geology, Lab: Example Stratigraphic Column'
 uid: c7d4cd78-ba5c-b48f-ec36-606adc79a982

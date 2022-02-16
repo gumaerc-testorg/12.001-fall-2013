@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
 title: Planning a Good Field Trip
 uid: ef6931d2-c8e6-bc0b-8e9a-5572a78fe125

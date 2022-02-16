@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
 title: Making Sense of Messiness
 uid: abd48cef-e43d-11ae-8b57-3e0d4a6872b9

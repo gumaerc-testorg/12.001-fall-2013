@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1c2cb2ad-1c70-fd66-f19e-20103dc94595
 ---
@@ -56,36 +58,6 @@ The course is designed to be accessible to students from all disciplines. No geo
 ### Offered
 
 Every fall semester. (Prior to Fall 2012, this course was offered every spring semester.)
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A medium-sized classroom with rows of tables and chairs.]({{< resource_file 97a3d81d-523a-4c02-b9b9-029d302f783b >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture and Lab
-    
-    Lecture and lab took place in this geology classroom with a projector and blackboards for instruction, and tables and countertops for student work.
-    
-*   ![Several rocks and minerals on a countertop.]({{< resource_file 9369d137-371a-d6bb-413b-d9f1d03a0fad >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 3 ![](/images/educator/classroom_next.png)
-    
-    ### Lecture and Lab
-    
-    Hand samples of rocks and minerals were used in the lectures and labs.
-    
-*   ![Stick and ball models of mineral atomic structure.]({{< resource_file bb55765b-76e3-cf50-294d-41ef55d3d091 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 3 of 3 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture and Lab
-    
-    Models of mineral structure are displayed at the back of the classroom.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

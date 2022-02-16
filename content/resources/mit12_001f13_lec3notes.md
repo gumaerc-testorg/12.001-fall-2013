@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding introduction to minerals.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/1b86cb3a4854134975175f73a85c2f23_MIT12_001F13_Lec3Notes.pdf
+file: /media/courses/12-001-introduction-to-geology-fall-2013/1b86cb3a4854134975175f73a85c2f23_MIT12_001F13_Lec3Notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes and Slides
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3 Notes: Introduction to Minerals'
 uid: 1b86cb3a-4854-1349-7517-5f73a85c2f23

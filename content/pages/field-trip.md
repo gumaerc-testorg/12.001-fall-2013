@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Field Trip
 uid: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
 ---
@@ -16,7 +18,7 @@ uid: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
 **Photographs from the Fall 2014 Field Trip**
 
 All images are courtesy of Taylor Perron and used with permission.
-{{< image-gallery id="de36fe69-cf33-ddf2-38bc-3896d0ce9eff_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/" >}}
+{{< image-gallery id="de36fe69-cf33-ddf2-38bc-3896d0ce9eff_nanogallery2" baseUrl="/courses/12-001-introduction-to-geology-fall-2013/" >}}
 {{< image-gallery-item href="915b6ae8ee3ce0531360df600464d389_IMG_20141011_092912.jpg" data-ngdesc="Prof. Perron points out a feature on a rock hand sample. Courtesy of Taylor Perron. Used with permission." text="Prof. Perron points out a feature on a rock hand sample." >}}
 {{< image-gallery-item href="0b2f13988f6f25b5cdf7c614a9399467_IMG_20141011_092937.jpg" data-ngdesc="The students of 12.001 investigate an outcrop. Courtesy of Taylor Perron. Used with permission." text="The students of 12.001 investigate an outcrop." >}}
 {{< image-gallery-item href="2c20fb5ffb5ae7c7bcf1cd4e0b7bcb02_IMG_20141011_093641.jpg" data-ngdesc="The students of 12.001 investigate a breccia along a major fault. Courtesy of Taylor Perron. Used with permission." text="The students of 12.001 investigate a breccia along a major fault." >}}

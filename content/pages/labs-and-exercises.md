@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs and Exercises
 uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 ---

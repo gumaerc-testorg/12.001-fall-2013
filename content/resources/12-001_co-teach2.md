@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/30464ae9d153afcbd91197bc5a69a3b7_12-001_co-teach2.jpg
+file: /media/courses/12-001-introduction-to-geology-fall-2013/30464ae9d153afcbd91197bc5a69a3b7_12-001_co-teach2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Co-Teaching
+parent_type: CourseSection
 resourcetype: Image
 title: 12-001_co-teach2.jpg
 uid: 30464ae9-d153-afcb-d911-97bc5a69a3b7
