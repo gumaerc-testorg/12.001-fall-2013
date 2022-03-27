@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 7a74d241-d2fe-5d87-7f74-7158998d8ed3
 resourcetype: Document
 title: 'Lecture 22 Notes: Field Techniques'
 uid: 7de2acad-99d8-c66f-a071-2cf95d7acc2d

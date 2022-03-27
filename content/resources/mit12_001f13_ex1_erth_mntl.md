@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: 'Title: 12.001 Introduction to Geology, Exercise 1: Composition of the Mantle'
 uid: 3d3af0ed-4937-7924-07dc-4afdbfaf7dc8

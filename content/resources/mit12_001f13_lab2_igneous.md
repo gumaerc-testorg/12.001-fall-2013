@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: 12.001 Introduction to Geology, Blank Chart for Igneous Rocks
 uid: bc1f0bad-c803-9d46-56e6-15342f468904

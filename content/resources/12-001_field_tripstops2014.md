@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Field Trip
 parent_type: CourseSection
+parent_uid: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
 resourcetype: Other
 title: 12.001_Field_TripStops2014.kml
 uid: 97f28b51-c2d7-6bbf-fa12-13260d56c281

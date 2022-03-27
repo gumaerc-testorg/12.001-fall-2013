@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 7a74d241-d2fe-5d87-7f74-7158998d8ed3
 resourcetype: Document
 title: 'Lecture 12 Notes: Climate through Geologic History'
 uid: 69fad51f-f2c9-68b5-0a43-85ed46b5ef1e

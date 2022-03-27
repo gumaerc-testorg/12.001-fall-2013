@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 7a74d241-d2fe-5d87-7f74-7158998d8ed3
 resourcetype: Document
 title: 'Lecture 21 Slides: Topography'
 uid: 3fe343fa-2d8d-b5fe-f59c-e836fae16ae1

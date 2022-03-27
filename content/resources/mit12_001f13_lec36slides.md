@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
+parent_uid: 7a74d241-d2fe-5d87-7f74-7158998d8ed3
 resourcetype: Document
 title: 'Lecture 36: Comparative Planetology'
 uid: 89cf411f-ce39-330a-1b3a-af426c9bcb1c

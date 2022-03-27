@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: 12.001 Introduction to Geology, Seismicity and Earthquakes, Part I
 uid: 2c4b4b64-5197-a77a-f712-086bf661c981

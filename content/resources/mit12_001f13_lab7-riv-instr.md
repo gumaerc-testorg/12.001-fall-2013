@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: '12.001 Introduction to Geology, Lab 7: Rivers'
 uid: 0e22c29f-baa6-4b0d-cfb8-ff17f5166e63

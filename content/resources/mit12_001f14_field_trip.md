@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Field Trip
 parent_type: CourseSection
+parent_uid: de36fe69-cf33-ddf2-38bc-3896d0ce9eff
 resourcetype: Document
 title: A Field Trip to Ancient Plate Tectonics Structures in Massachusetts and New
   York

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Co-Teaching
 parent_type: CourseSection
+parent_uid: e843f795-081a-c616-d0ce-bdff6e956e33
 resourcetype: Image
 title: 12-001_co-teach1.jpg
 uid: 884ed8a1-26ca-ebc0-bc2a-972fb7db9f04

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: '12.001 Introduction to Geology, Exercise 5: Science, Policy, and Public Opinion'
 uid: 0eff4684-7a09-0a37-a7b8-b458ac58598b

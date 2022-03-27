@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
+parent_uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb
 resourcetype: Document
 title: 12.001 Introduction to Geology, Blank Chart for Minerals
 uid: ca9d1d21-763c-564a-d4fd-651054c3d738
