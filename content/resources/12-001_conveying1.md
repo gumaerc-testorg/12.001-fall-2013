@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-001-introduction-to-geology-fall-2013/3d4dbaff8153ae8a50177792cde13771_12-001_conveying1.jpg
+file: /courses/12-001-introduction-to-geology-fall-2013/3d4dbaff8153ae8a50177792cde13771_12-001_conveying1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

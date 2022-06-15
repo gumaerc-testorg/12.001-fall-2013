@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Perron discusses how the course challenges students
+  to make sense of complexities in the field.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ _In this section, Prof. Perron discusses how the course challenges students to m
 
 Many of our students are accustomed to classes that have assignments in which the problems are clear-cut and have precise answers. The earth sciences are not like that. For example, we might ask students to identify three different rock hand samples that all appear rough and grayish. Students don’t always know how to approach a problem like that.
 
-![Boxes of rock and mineral hand samples.]({{< resource_file bfa2d132-364d-489c-f945-0c584b71ec1e >}})  
+{{< resource bfa2d132-364d-489c-f945-0c584b71ec1e >}}  
 
 Students learn to identify rocks and minerals in the first two labs of the course. (Image by MIT OpenCourseWare.)
 

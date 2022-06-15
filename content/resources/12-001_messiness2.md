@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-001-introduction-to-geology-fall-2013/cc63f79e533821be1f71a292e2015a30_12-001_messiness2.jpg
+file: /courses/12-001-introduction-to-geology-fall-2013/cc63f79e533821be1f71a292e2015a30_12-001_messiness2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Perron shares insights about planning a good field
+  trip.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ _In this section, Prof. Perron shares insights about planning a good field trip.
 
 The most important thing we do in planning a good field trip is providing students with a good story—a story that unfolds over the course of the field experience. The story that we tell through our field trip to upstate New York is how supercontinents assemble and break apart. It’s also the story of how oceans open and close. The theme of the trip is this cyclical process. We see two full cycles of the opening and closing of ocean basins on our drive from upstate New York to western Massachusetts.
 
-![A mineral with a shiny luster and flaky cleavage.]({{< resource_file ac6c04d5-7955-b585-a812-bd1d38d542b3 >}})  
+{{< resource ac6c04d5-7955-b585-a812-bd1d38d542b3 >}}  
 
 The luster and cleavage of this mica make it an easy mineral to identify. (Image by MIT OpenCourseWare.)
 

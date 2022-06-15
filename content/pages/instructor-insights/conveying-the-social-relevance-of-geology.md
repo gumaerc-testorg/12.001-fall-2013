@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Perron discusses how the instructors convey the
+  social relevance of geology in 12.001.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +18,7 @@ _In this section, Prof. Perron discusses how the instructors convey the social r
 
 When you’re teaching about processes that unfold over billions of years, it can be easy to gloss over geology’s social relevance, because, as an instructor, you’re struggling to cover so much content. Nonetheless, we think it’s very important to do so. One way we do this is by highlighting how humans impact and are impacted by the natural processes that we discuss in the course. We try to do this whenever we have a topic that’s relevant in some way. For example, when discussing landslides, we note how land use influences soil cohesion. Even contemporary anthropogenic climate change becomes relevant in this conversation because we discuss the effects of changes in the precipitation regime on landslide patterns.
 
-![A green crystalline rock hand sample.]({{< resource_file 3f18dbaa-b90b-3de9-115b-20da487f29e8 >}})  
+{{< resource 3f18dbaa-b90b-3de9-115b-20da487f29e8 >}}  
 
 A rock from the rock identification lab. (Image by MIT OpenCourseWare.)
 

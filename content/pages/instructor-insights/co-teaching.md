@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In this section, Prof. Perron shares insights about co-teaching.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -16,7 +17,7 @@ _In this section, Prof. Perron shares insights about co-teaching._
 
 _Introduction to Geology_ has evolved over the years to become a more active experience for students and instructors. As co-teachers, we’ve reduced some of the traditional lecture time and have included more interactive hands-on activities. This is in recognition of the fact that so many things in earth science are tangible. During classes, we make a big effort to expose students to hand samples. We teach them how to identify rocks and minerals. We take them out into the field. In fact, the in-depth field trip we developed two years ago, which involves driving students to Upstate New York and back through western Massachusetts, has now become an integral part of the class.
 
-![A box of small brown minerals.]({{< resource_file 884ed8a1-26ca-ebc0-bc2a-972fb7db9f04 >}})  
+{{< resource 884ed8a1-26ca-ebc0-bc2a-972fb7db9f04 >}}  
 
 A box of minerals to be identified by the students in the mineral identification lab. (Image by MIT OpenCourseWare.)
 
