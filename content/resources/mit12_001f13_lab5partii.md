@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/eab54dbc48400f13cb273511
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 12.001 Introduction to Geology,a Seismicity and Earthquakes, Part II
 uid: eab54dbc-4840-0f13-cb27-3511bc2824f4
 ---
 This file contains information regarding seismicity and earthquakes, part II.
-

@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/bc1f0badc8039d4656e61534
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12.001 Introduction to Geology, Blank Chart for Igneous Rocks
 uid: bc1f0bad-c803-9d46-56e6-15342f468904
 ---
 This file contains information regarding blank chart for igneous rocks.
-

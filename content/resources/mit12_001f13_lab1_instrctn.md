@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/3178dffb389bc9b0e742da81
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 12.001 Introduction to Geology, Mineral Identification Guide
 uid: 3178dffb-389b-c9b0-e742-da818e0507ce
 ---
 This file contains information regarding lab 1: mineral identification.
-

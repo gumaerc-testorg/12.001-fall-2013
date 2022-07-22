@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/e2c78d0a4801f8e2fa4083dc
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '12.001 Introduction to Geology, Exercise 3: Stereonets'
 uid: e2c78d0a-4801-f8e2-fa40-83dcec911330
 ---
 This file contains information regarding exercise 3: stereonets.
-

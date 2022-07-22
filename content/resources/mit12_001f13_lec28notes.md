@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/526a37955368dfee90091327
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 28 Notes: Rivers'
 uid: 526a3795-5368-dfee-9009-1327394fa6fe
 ---
 This is a file that contains information regarding rivers.
-

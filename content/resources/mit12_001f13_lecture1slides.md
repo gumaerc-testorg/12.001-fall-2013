@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/d8c5746d11664a62a1ede4fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1 Slides: Overview: Introduction to the Introduction of Geology'
 uid: d8c5746d-1166-4a62-a1ed-e4fecfca6e37
 ---
 This is a resource file that contains information regarding overview: introduction to the introduction of geology.
-

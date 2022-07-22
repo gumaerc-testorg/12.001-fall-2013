@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/bcca3aeb2b6a50bcc665b2b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 32 Notes: Glaciers'
 uid: bcca3aeb-2b6a-50bc-c665-b2b7f93d4ff4
 ---
 This is a file that contains information regarding glaciers.
-

@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/725e81b27b8fbec38927b1e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 11 Notes: Geologic Time: Relative versus Absolute Dating'
 uid: 725e81b2-7b8f-bec3-8927-b1e07c2f4f83
 ---
 This is a resource file that contains information regarding geologic time.
-

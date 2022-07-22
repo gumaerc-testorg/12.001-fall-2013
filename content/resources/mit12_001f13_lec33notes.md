@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/69fad51ff2c968b50a4385ed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 12 Notes: Climate through Geologic History'
 uid: 69fad51f-f2c9-68b5-0a43-85ed46b5ef1e
 ---
 This is a file that contains information regarding climate through geologic history.
-

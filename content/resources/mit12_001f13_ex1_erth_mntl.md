@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/3d3af0ed4937792407dc4afd
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Title: 12.001 Introduction to Geology, Exercise 1: Composition of the Ma
 uid: 3d3af0ed-4937-7924-07dc-4afdbfaf7dc8
 ---
 This file contains information regarding exercise 1: composition of the mantle.
-

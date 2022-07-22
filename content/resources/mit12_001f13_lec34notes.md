@@ -6,6 +6,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/730a8be9baea5c1090f79449
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 34 Notes: Earth History and Geobiology'
 uid: 730a8be9-baea-5c10-90f7-94490c792f6d
 ---
 This is a resource file that contains information regarding earth history and geobiology.
-

@@ -5,6 +5,7 @@ file: /courses/12-001-introduction-to-geology-fall-2013/8271452e03553099040a97e0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 19 Notes: Earthquakes'
 uid: 8271452e-0355-3099-040a-97e005b199ac
 ---
 This is a file that contains information regarding earthquakes.
-

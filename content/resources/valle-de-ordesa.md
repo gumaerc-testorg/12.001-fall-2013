@@ -9,6 +9,7 @@ image_metadata:
   credit: Photograph courtesy of Taylor Perron.
   image-alt: A U-shaped valley.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Valle-de-Ordesa.jpg
 uid: 4f199a18-bc4a-d7f0-f6e8-ffa79ece47e6
 ---
 The Ordesa Valley in the Spanish Pyrenees was carved by a glacier. Photograph courtesy of Taylor Perron.
-
