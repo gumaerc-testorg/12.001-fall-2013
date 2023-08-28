@@ -31,4 +31,4 @@ All images are courtesy of Taylor Perron and used with permission.
 {{< image-gallery-item href="b288ab62a7f3977c4251ed2043968f88_IMG_20141011_160112.jpg" data-ngdesc="Steeply dipping beds. Courtesy of Taylor Perron. Used with permission." text="Steeply dipping beds." >}}  
 {{< image-gallery-item href="c45d49719c244f95c653522c55bb8896_IMG_20141012_113515.jpg" data-ngdesc="Students walk to an outcrop. Courtesy of Taylor Perron. Used with permission." text="Students walk to an outcrop." >}}  
 {{< image-gallery-item href="b7c133da444ee8e71cf60bea081b6e60_IMG_20141012_114203.jpg" data-ngdesc="Prof. Jagoutz leads a discussion near a stream. Courtesy of Taylor Perron. Used with permission." text="Prof. Jagoutz leads a discussion near a stream." >}}  
-{{}}
+{{</ image-gallery >}}
