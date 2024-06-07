@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding introduction
   to the introduction of geology.
 file: /courses/12-001-introduction-to-geology-fall-2013/afe6a58db228c6f134a347dd2225e78a_MIT12_001F13_Lec1Notes.pdf
+file_size: 90465
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

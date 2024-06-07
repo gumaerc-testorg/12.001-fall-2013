@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding origin and
   age of the earth.
 file: /courses/12-001-introduction-to-geology-fall-2013/b463875b69d4156b90faaeb0dd7ca66b_MIT12_001F13_Lecture2slides.pdf
+file_size: 2747826
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding geologic
   time.
 file: /courses/12-001-introduction-to-geology-fall-2013/95c4779902dd7abe4d0ec6ce00e384d6_MIT12_001F13_Lecture11slides.pdf
+file_size: 395358
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
