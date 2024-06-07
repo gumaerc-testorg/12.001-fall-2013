@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains information regarding exercise 1: composition of
   the mantle.'
 file: /courses/12-001-introduction-to-geology-fall-2013/3d3af0ed4937792407dc4afdbfaf7dc8_MIT12_001F13_Ex1_Erth_Mntl.pdf
+file_size: 269599
 file_type: application/pdf
 learning_resource_types:
 - Labs

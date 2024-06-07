@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the information regarding lecture 33 Slides: Climate
   through Geologic History.'
 file: /courses/12-001-introduction-to-geology-fall-2013/fbd6bee4c6c78fcbe1946359395b1069_MIT12_001F13_Lec33slides.pdf
+file_size: 2318882
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
