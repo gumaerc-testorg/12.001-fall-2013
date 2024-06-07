@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding glaciers.
 file: /courses/12-001-introduction-to-geology-fall-2013/bcca3aeb2b6a50bcc665b2b7f93d4ff4_MIT12_001F13_Lec32Notes.pdf
+file_size: 329152
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
