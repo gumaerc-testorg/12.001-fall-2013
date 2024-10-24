@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding lecture 34 Slides: Earth
   History and Geobiology.'
-file: /courses/12-001-introduction-to-geology-fall-2013/9f758adca4a5b224cfcb308fc8e4c55c_MIT12_001F13_Lec34Slides.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/9f758adca4a5b224cfcb308fc8e4c55c_MIT12_001F13_Lec34Slides.pdf
 file_size: 3612809
 file_type: application/pdf
 learning_resource_types:
