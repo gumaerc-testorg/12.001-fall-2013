@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special resource regarding field trip stops.
-file: /courses/12-001-introduction-to-geology-fall-2013/97f28b51c2d76bbffa1213260d56c281_12.001_Field_TripStops2014.kml
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/97f28b51c2d76bbffa1213260d56c281_12.001_Field_TripStops2014.kml
 file_size: 9369
 file_type: text/xml
 learning_resource_types: []

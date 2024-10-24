@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding lecture 28 Slides: Rivers.'
-file: /courses/12-001-introduction-to-geology-fall-2013/cf74a58b49c9caf991986d0ab832b3a6_MIT12_001F13_Lec28Slides.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/cf74a58b49c9caf991986d0ab832b3a6_MIT12_001F13_Lec28Slides.pdf
 file_size: 6275094
 file_type: application/pdf
 learning_resource_types:

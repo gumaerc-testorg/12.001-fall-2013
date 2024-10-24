@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding example stratigraphic column.
-file: /courses/12-001-introduction-to-geology-fall-2013/c7d4cd78ba5cb48fec36606adc79a982_MIT12_001F13_Lab6-ExStraCo.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/c7d4cd78ba5cb48fec36606adc79a982_MIT12_001F13_Lab6-ExStraCo.pdf
 file_size: 254286
 file_type: application/pdf
 learning_resource_types:
