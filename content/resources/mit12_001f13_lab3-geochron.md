@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab 3: geochronology.'
-file: /courses/12-001-introduction-to-geology-fall-2013/bc30d4d5d7fbfb851f1aea0d7dcf53de_MIT12_001F13_Lab3-Geochron.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/bc30d4d5d7fbfb851f1aea0d7dcf53de_MIT12_001F13_Lab3-Geochron.pdf
 file_size: 962802
 file_type: application/pdf
 learning_resource_types:
