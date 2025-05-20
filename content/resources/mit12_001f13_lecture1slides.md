@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding overview:
   introduction to the introduction of geology.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/d8c5746d11664a62a1ede4fecfca6e37_MIT12_001F13_Lecture1slides.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/d8c5746d11664a62a1ede4fecfca6e37_MIT12_001F13_Lecture1slides.pdf
 file_size: 1658853
 file_type: application/pdf
 learning_resource_types:

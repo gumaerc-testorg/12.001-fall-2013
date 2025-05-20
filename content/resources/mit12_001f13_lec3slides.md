@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Lecture 3 Slides: Introduction
   to Minerals.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/bbb20ec6c4f529ce9dc34565ddd5c411_MIT12_001F13_Lec3Slides.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/bbb20ec6c4f529ce9dc34565ddd5c411_MIT12_001F13_Lec3Slides.pdf
 file_size: 2394778
 file_type: application/pdf
 learning_resource_types:

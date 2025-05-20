@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding igneous rocks.
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/0c6afef275a07fa8888f7ebb3730f0c8_MIT12_001F13_Lec4Notes.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/0c6afef275a07fa8888f7ebb3730f0c8_MIT12_001F13_Lec4Notes.pdf
 file_size: 756864
 file_type: application/pdf
 learning_resource_types:
