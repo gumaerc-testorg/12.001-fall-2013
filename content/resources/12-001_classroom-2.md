@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/9369d137371ad6bb413bd9f1d03a0fad_12-001_classroom-2.jpg
+file: /courses/12-001-introduction-to-geology-fall-2013/9369d137371ad6bb413bd9f1d03a0fad_12-001_classroom-2.jpg
 file_size: 58487
 file_type: image/jpeg
 image_metadata:

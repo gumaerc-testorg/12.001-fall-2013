@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains the information regarding lecture 21 Slides: Topography.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/3fe343fa2d8db5fef59ce836fae16ae1_MIT12_001F13_Lec21slides.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/3fe343fa2d8db5fef59ce836fae16ae1_MIT12_001F13_Lec21slides.pdf
 file_size: 3973764
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding comparitive planetology.
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/46af56797a1dfd6bdd111a36a87ccc0b_MIT12_001F13_Lec36Notes.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/46af56797a1dfd6bdd111a36a87ccc0b_MIT12_001F13_Lec36Notes.pdf
 file_size: 181989
 file_type: application/pdf
 learning_resource_types:

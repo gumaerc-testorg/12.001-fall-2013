@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding exercise 2: rock structure
   and deformation.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/95c6687a9ae75d050ae508d73e460fd0_MIT12_001F13_Ex2_Rock_Str.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/95c6687a9ae75d050ae508d73e460fd0_MIT12_001F13_Ex2_Rock_Str.pdf
 file_size: 887085
 file_type: application/pdf
 learning_resource_types:

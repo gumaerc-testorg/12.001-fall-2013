@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding exercise 3: stereonets.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/e2c78d0a4801f8e2fa4083dcec911330_MIT12_001F13_Ex3_Stereonet.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/e2c78d0a4801f8e2fa4083dcec911330_MIT12_001F13_Ex3_Stereonet.pdf
 file_size: 273340
 file_type: application/pdf
 learning_resource_types:

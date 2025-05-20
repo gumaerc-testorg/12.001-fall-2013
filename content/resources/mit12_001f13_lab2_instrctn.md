@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab 2: rock identification.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/7016ff5c52fad747655b3a8292ae9d6d_MIT12_001F13_Lab2_Instrctn.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/7016ff5c52fad747655b3a8292ae9d6d_MIT12_001F13_Lab2_Instrctn.pdf
 file_size: 325509
 file_type: application/pdf
 learning_resource_types:

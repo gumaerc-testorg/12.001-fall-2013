@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab 1: mineral identification.'
-file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/3178dffb389bc9b0e742da818e0507ce_MIT12_001F13_Lab1_Instrctn.pdf
+file: /courses/12-001-introduction-to-geology-fall-2013/3178dffb389bc9b0e742da818e0507ce_MIT12_001F13_Lab1_Instrctn.pdf
 file_size: 735428
 file_type: application/pdf
 learning_resource_types:
