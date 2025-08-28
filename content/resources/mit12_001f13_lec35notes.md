@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding earth science
   and society.
-file: /courses/12-001-introduction-to-geology-fall-2013/aa123b818503ad107b864c3c21571f95_MIT12_001F13_Lec35Notes.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/aa123b818503ad107b864c3c21571f95_MIT12_001F13_Lec35Notes.pdf
 file_size: 194816
 file_type: application/pdf
 learning_resource_types:

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains information regarding blank chart for igneous rocks.
-file: /courses/12-001-introduction-to-geology-fall-2013/bc1f0badc8039d4656e615342f468904_MIT12_001F13_Lab2_Igneous.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/bc1f0badc8039d4656e615342f468904_MIT12_001F13_Lab2_Igneous.pdf
 file_size: 84887
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
