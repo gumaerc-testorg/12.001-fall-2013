@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab 7: rivers.'
-file: /courses/12-001-introduction-to-geology-fall-2013/0e22c29fbaa64b0dcfb8ff17f5166e63_MIT12_001F13_Lab7-Riv-Instr.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/0e22c29fbaa64b0dcfb8ff17f5166e63_MIT12_001F13_Lab7-Riv-Instr.pdf
 file_size: 313323
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises

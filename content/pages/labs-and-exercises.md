@@ -3,7 +3,7 @@ content_type: page
 description: This section contains the exercises and laboratory assignments for the
   course along with supporting files.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs and Exercises
 uid: 70b14987-2928-3aad-0ccf-e229bcdce4cb

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a file that contains information regarding rivers.
-file: /courses/12-001-introduction-to-geology-fall-2013/526a37955368dfee90091327394fa6fe_MIT12_001F13_Lec28Notes.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/526a37955368dfee90091327394fa6fe_MIT12_001F13_Lec28Notes.pdf
 file_size: 521454
 file_type: application/pdf
 learning_resource_types:

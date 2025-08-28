@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Lecture 18 Slides: Oceanic
   Crust Formation.'
-file: /courses/12-001-introduction-to-geology-fall-2013/7ae34483a731c75347e2e65e2862c52c_MIT12_001F13_Lec18Slides.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/7ae34483a731c75347e2e65e2862c52c_MIT12_001F13_Lec18Slides.pdf
 file_size: 4263607
 file_type: application/pdf
 learning_resource_types:

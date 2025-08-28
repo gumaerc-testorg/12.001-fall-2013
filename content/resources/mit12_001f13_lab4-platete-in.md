@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'This file contains information regarding lab 4: plate tectonics.'
-file: /courses/12-001-introduction-to-geology-fall-2013/eec10bf7b06efbe4bc91e53910dc35ab_MIT12_001F13_Lab4-PlateTe-In.pdf
+file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/eec10bf7b06efbe4bc91e53910dc35ab_MIT12_001F13_Lab4-PlateTe-In.pdf
 file_size: 273170
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
