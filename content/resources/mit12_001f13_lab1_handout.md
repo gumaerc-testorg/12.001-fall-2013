@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/12-001-introduction-to-geology-fall-2013/0c4d78
 file_size: 106284
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs and Exercises
