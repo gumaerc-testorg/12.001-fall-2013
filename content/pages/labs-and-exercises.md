@@ -93,7 +93,7 @@ LABS AND EXERCISES
 
 {{% resource_link eec10bf7-b06e-fbe4-bc91-e53910dc35ab "Lab 4: Plate Tectonics (PDF)" %}}
 
-This lab is from [comprehensive work](http://plateboundary.rice.edu/home.html) by Dale S. Sawyer at Rice University. Used with permission. Additional materials used in the lab are available to download at his website.
+This lab is from {{% resource_link "2b5ab2fa-e3d6-4205-a04a-51711a6a0344" "comprehensive work" %}} by Dale S. Sawyer at Rice University. Used with permission. Additional materials used in the lab are available to download at his website.
 
 
 {{< tdclose >}}
@@ -109,7 +109,7 @@ This lab is from [comprehensive work](http://plateboundary.rice.edu/home.html) b
 Lab 5: Earthquakes
 
 *   {{% resource_link 2c4b4b64-5197-a77a-f712-086bf661c981 "Seismicity and Earthquakes, Part I (PDF)" %}}
-    *   Wolfe, Cecily J., Sean C. Solomon, et al. "[Mantle Shear-wave Velocity Structure Beneath the Hawaiian Hot Spot](http://dx.doi.org/10.1126/science.1180165)." _Science_ 326, no. 5958 (2009): 1388–90.
+    *   Wolfe, Cecily J., Sean C. Solomon, et al. "{{% resource_link "8b7e9215-fa4a-4a27-a681-c83ddee2c1bf" "Mantle Shear-wave Velocity Structure Beneath the Hawaiian Hot Spot" %}}." _Science_ 326, no. 5958 (2009): 1388–90.
 *   {{% resource_link eab54dbc-4840-0f13-cb27-3511bc2824f4 "Seismicity and Earthquakes, Part II (PDF)" %}}
 
 
